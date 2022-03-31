@@ -425,4 +425,4 @@ Thanks for attending and completing this workshop
 <hr />
 Pas Apicella [pas at snyk.io] is a Principal Solution Engineer at Snyk APJ
 
-JJ Ng [jj.ng at snyk.io] is an Solution Engineer at Snyk APJ
+JJ Ng [jj.ng at snyk.io] is a Solution Engineer at Snyk APJ
